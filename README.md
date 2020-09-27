@@ -1,3 +1,14 @@
+### Description 
+
+This is a project where you find Breaking bad phrases.
+
+I used the api from https://breaking-bad-quotes.herokuapp.com/v1/quotes
+
+Preview
+https://eloquent-yonath-736cc2.netlify.app/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
