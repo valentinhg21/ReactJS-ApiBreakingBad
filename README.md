@@ -5,7 +5,7 @@ This is a project where you find Breaking bad phrases.
 I used the api from https://breaking-bad-quotes.herokuapp.com/v1/quotes
 
 Preview
-https://eloquent-yonath-736cc2.netlify.app/
+https://rickandmortyjs.netlify.app
 
 
 
